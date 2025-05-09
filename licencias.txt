@@ -1,0 +1,2 @@
+juansebastian,activo
+cliente2,inactivo
