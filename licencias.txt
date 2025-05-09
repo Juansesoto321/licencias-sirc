@@ -1,3 +1,2 @@
 juansebastian,activo
-cliente2,inactivo
 NGOrtiz,activo
