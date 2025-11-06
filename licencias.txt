@@ -2,7 +2,8 @@ NGOrtiz,activo
 SLOGuevaraSeg,activo
 MCTNaranjo,activo
 AFCRojasN,activo
-CMQZambrano,inactivo
+CMQZambrano,activo
 BTVSanchez,activo
+
 
 
